@@ -13,6 +13,7 @@
     "@ai-sdk/react": "^1.2.12",
     "@modelcontextprotocol/sdk": "^1.13.0",
     "@radix-ui/react-slot": "^1.2.3",
+    "@supabase/supabase-js": "^2.50.0",
     "@vercel/mcp-adapter": "^0.11.1",
     "ai": "^4.3.16",
     "class-variance-authority": "^0.7.1",
